@@ -1,6 +1,6 @@
-# [SDF01] Challenge: My First Repo 🚀
+# [SDF01] My First Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Qhama Vani
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -10,8 +10,8 @@
 
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+- 🤖 I enjoy the challenge of figuring things out, it gives me a sense of satisfaction when everything clicks together and works the way it should.
+- 🔥 I can't wait to apply everything I have learned and turning ideas into something functional.
 
 ---
 
@@ -33,9 +33,9 @@
 ## 🏆 Soft Skills
 
 - 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
+- 📢 Time Management
 - 🎯 Problem-Solving
-- 🚀 Adaptability
+- 🚀 Attention to detail
 
 ---
 
@@ -48,7 +48,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 🔹 **Description:** My first project using GitHub to manage files.  
 🔹 **Status:** ✅ Completed
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+### **2️⃣ Personal Portfolio** (Coming Soon!)
 
 🔹 **Description:** A simple portfolio to showcase my projects.  
 🔹 **Technologies:** HTML, CSS
@@ -66,15 +66,15 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/quevani)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+📧 Email: [qhamavani08@gmail.com](mailto:qhama.vani@gmail.com)
 
 ---
 
 ## 🚀 Fun Fact
 
-💡 I love learning new things and can't wait to build my first website!
+💡 I love solving puzzles, turning complex problems into simple solutions.
 
 ---
 
